@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rhymesui/static/css/main.abbe2d49.chunk.css",
+    "main.js": "/rhymesui/static/js/main.87702153.chunk.js",
+    "main.js.map": "/rhymesui/static/js/main.87702153.chunk.js.map",
+    "runtime-main.js": "/rhymesui/static/js/runtime-main.0b456733.js",
+    "runtime-main.js.map": "/rhymesui/static/js/runtime-main.0b456733.js.map",
+    "static/js/2.9dcd6250.chunk.js": "/rhymesui/static/js/2.9dcd6250.chunk.js",
+    "static/js/2.9dcd6250.chunk.js.map": "/rhymesui/static/js/2.9dcd6250.chunk.js.map",
+    "index.html": "/rhymesui/index.html",
+    "static/css/main.abbe2d49.chunk.css.map": "/rhymesui/static/css/main.abbe2d49.chunk.css.map",
+    "static/js/2.9dcd6250.chunk.js.LICENSE.txt": "/rhymesui/static/js/2.9dcd6250.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b456733.js",
+    "static/js/2.9dcd6250.chunk.js",
+    "static/css/main.abbe2d49.chunk.css",
+    "static/js/main.87702153.chunk.js"
+  ]
+}
